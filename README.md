@@ -21,4 +21,4 @@ Type this in text area: CREATE DATABASE ecommerce
 13.	You can now use the website.
 
 ## Database Schema
-Under the former database, it composes 3 tables (1 only in repos file presently) which are “Products”, “Customers” & “Orders”.
+Under this project's database, it composes 3 tables (1 only in repos file presently) which are “Products”, “Customers” & “Orders”.
