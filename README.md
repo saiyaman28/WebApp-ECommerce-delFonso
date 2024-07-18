@@ -25,13 +25,13 @@ Under this project's database, it composes 3 tables (1 only in repos file presen
 
 ## Function
 • Backend – Placement for all the backend files <br />
-o Database – For configuration of MySQL and enshorting the sql commands via PHP’s function. <br />
-o Systems – For handling webpages’ form operations to database such as Add products, Update products & delete products. <br />
+	o Database – For configuration of MySQL and enshorting the sql commands via PHP’s function. <br />
+	o Systems – For handling webpages’ form operations to database such as Add products, Update products & delete products. <br />
 • Static – Placement for all the frontend configurations (such as CSS & JavaScript) & images files <br />
 • Templates – Placement for all the frontend files. <br />
-o Elements – For website’s special elements such as the base, header & footer. <br />
-o Pages – For actual webpages. <br />
- index.php – The website’s homepage. You can see here all the products available. You can add, edit and delete products here as well. <br /> 
- add_product.php – This is where you will be redirected to when you click add order. You can add your order here and input the product’s name, description & price. After you input the details, it will be automatically saved to database and redirect you back to home and you can see your new input right away. <br />
- edit_product.php – This is where you will be redirected to when you click the edit button beside the table row. You can edit your product’s details here. After you modify your product’s details, you will be redirected back home, and you can see the changes right away. <br />
- delete_product.php – This is where you will be redirected to when you click the delete button. Clicking this will delete the rows and it will redirect you back to the home page. <br />
+	o Elements – For website’s special elements such as the base, header & footer. <br />
+	o Pages – For actual webpages. <br />
+		 index.php – The website’s homepage. You can see here all the products available. You can add, edit and delete products here as well. <br /> 
+		 add_product.php – This is where you will be redirected to when you click add order. You can add your order here and input the product’s name, description & price. After you input the details, it will be automatically saved to database and redirect you back to home and you can see your new input right away. <br />
+		 edit_product.php – This is where you will be redirected to when you click the edit button beside the table row. You can edit your product’s details here. After you modify your product’s details, you will be redirected back home, and you can see the changes right away. <br />
+		 delete_product.php – This is where you will be redirected to when you click the delete button. Clicking this will delete the rows and it will redirect you back to the home page. <br />
