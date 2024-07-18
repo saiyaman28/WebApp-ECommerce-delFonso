@@ -5,7 +5,7 @@ This project was created by me, a college student tracking in website developmen
 
 ## How to run?
 1.	Clone the repository to your local machine.
-2.	Download the XAMPP and install the application. Please install the application in default installation directory only.
+2.	Download the XAMPP and install the application. Please install the application in default installation directory only. <br />
    Link: https://www.apachefriends.org/download.html
 4.	Copy the downloaded file to (assuming that you install the application to Local Disk C):
 C:\This PC\xampp\htdocs
@@ -16,6 +16,6 @@ C:\This PC\xampp\htdocs
 Type this in text area: CREATE DATABASE ecommerce
 9.	Go to import.
 10.	Click choose file and select the “DATABASE.sql” located in the repository folder and import.
-11.	Proceed to new tab and type this in address bar.
+11.	Proceed to new tab and type this in address bar. <br />
     Link: http://localhost/PE/templates/pages/index.php
 13.	You can now use the website.
