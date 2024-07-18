@@ -7,7 +7,7 @@ This project was created by me, a college student tracking in website developmen
 1.	Clone the repository to your local machine.
 2.	Download the XAMPP and install the application. Please install the application in default installation directory only. <br />
    Link: https://www.apachefriends.org/download.html
-4.	Copy the downloaded file to (assuming that you install the application to Local Disk C):
+4.	Copy the "PE" folder to (assuming that you install the application to Local Disk C):
 C:\This PC\xampp\htdocs
 5.	Open the application and start Apache and MySQL.
 6.	Click the admin under MySQL.
