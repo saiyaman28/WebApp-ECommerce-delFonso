@@ -3,7 +3,7 @@
 ## Overview
 This project was created by me, a college student tracking in website development. As part of my coursework, I created this project using vanilla PHP, which is known for its simplicity and efficiency. 
 
-## How to run?
+## How to Run?
 1.	Clone the repository to your local machine.
 2.	Download the XAMPP and install the application. Please install the application in default installation directory only. <br />
    Link: https://www.apachefriends.org/download.html
@@ -19,3 +19,6 @@ Type this in text area: CREATE DATABASE ecommerce
 11.	Proceed to new tab and type this in address bar. <br />
     Link: http://localhost/PE/templates/pages/index.php
 13.	You can now use the website.
+
+## Database Schema
+Under the former database, it composes 3 tables (1 only in repos file presently) which are “Products”, “Customers” & “Orders”.
